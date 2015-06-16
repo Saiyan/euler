@@ -1,0 +1,5 @@
+.idea/
+nbproject/
+__pycache__
+ruby/.buildpath
+ruby/.project
